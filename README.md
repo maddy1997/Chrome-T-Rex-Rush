@@ -23,13 +23,8 @@ To run this game:
 * Run main.py
 
 ##### Controls:
-* Press UP or SPACE to make T-Rex jump over the obstacles
-* Press DOWN key to crouch
-* Avoid getting hit by obstacles. 
-
-### Developed by: 
-Shivam Shekhar  
-Email: shivam.shekhar.ece14@itbhu.ac.in   
+* Press space to start.
+* Press space while training to save the best player.
 
 #### Credits:
 * Sprites : https://chromedino.com/assets/offline-sprite-2x-black.png
