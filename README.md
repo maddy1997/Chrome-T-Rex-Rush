@@ -20,7 +20,9 @@ Windows/Linux
 ### Instructions and Prerequisites:   
 To run this game:  
 * Make sure you have Python installed alongwith pygame (http://www.pygame.org/) library
-* Run main.py
+* Also install numpy (http://www.numpy.org/) library.
+* Run train.py to train the players.
+* Run playbest.py to play the best one saved.
 
 ##### Controls:
 * Press space to start.
