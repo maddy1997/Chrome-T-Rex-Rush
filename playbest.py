@@ -1,4 +1,3 @@
-#To play the best one saved. There's a single saved best one, it gets overwritten everytime a new best is saved.
 import os
 import sys
 import pygame
